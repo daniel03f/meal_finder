@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "860536038133",
+    "project_id": "meal-finder-269b2",
+    "storage_bucket": "meal-finder-269b2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860536038133:android:ba343e3e1955b24dc01bbc",
+        "android_client_info": {
+          "package_name": "com.example.meal_finder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqBEx6JGTZ5PlqHG0zeIQO6rGhdZ0kQR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
